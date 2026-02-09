@@ -33,7 +33,7 @@ noBtn.addEventListener('click', () => {
 
 yesBtn.addEventListener('click', () => {
     // Celebration state
-    question.innerText = "MY GORGEOUS GIRL... I knew you'd say yes! ❤️";
+    question.innerText = "MY GORGEOUS GIRL! I can't wait to see you baby❤️";
     image.src = "https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWY1MTR5NTRrbXY2ZXRhcWpzYmJ0NzdmZThlOXY0NDd4eWQ5cWtjNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/MDJ9IbxxvDUQM/giphy.gif";
     
     // Hide buttons
